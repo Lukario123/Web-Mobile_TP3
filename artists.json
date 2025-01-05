@@ -1,0 +1,22 @@
+[
+  {
+    "name": "John Doe",
+    "stageName": "JD",
+    "recordLabel": "JD Records",
+    "image": "https://example.com/johndoe.jpg",
+    "albums": 5,
+    "socialLinks": ["https://twitter.com/johndoe", "https://instagram.com/johndoe"],
+    "publishingHouse": "JD Publishing",
+    "startDate": "2010-01-01"
+  },
+  {
+    "name": "Jane Smith",
+    "stageName": "JS",
+    "recordLabel": "JS Records",
+    "image": "https://example.com/janesmith.jpg",
+    "albums": 3,
+    "socialLinks": ["https://facebook.com/janesmith"],
+    "publishingHouse": "JS Publishing",
+    "startDate": "2015-05-15"
+  }
+]
